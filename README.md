@@ -4,8 +4,8 @@
 #### Repository stats
 
 <p>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=hailrakeqq&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailrakeqq&theme=nord&hide_title=true&hide_border=true&layout=compact&langs_count=10">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=nord&hide_title=true&hide_border=true&layout=compact&langs_count=10">
   <p>
     <img src="https://img.shields.io/badge/-CSharp-800080?style=flat-square&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Javascript-FFDB58?style=flat-square&logo=javascript&logoColor=white"/>
