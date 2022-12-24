@@ -17,7 +17,6 @@
 <br/>
 <p>- 🌱 I’m currently learning: C#/.Net</p>
 <p>- 📫 How to reach me: </p>
-     <p>discord --> qwexc_#5948</p>
      <p>e-mail --> hailrake@riseup.net</p>
      <p>telegram --> https://t.me/hailrakeqqe</p>
 <p>- 👯 I’m looking to collaborate!!!</p>
