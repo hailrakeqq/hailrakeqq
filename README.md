@@ -19,5 +19,5 @@
 <p>- 📫 How to reach me: </p>
      <p>e-mail --> hailrake@riseup.net</p>
      <p>telegram --> https://t.me/hailrakeqqe</p>
-<p>- 👯 I’m looking to collaborate!!!</p>
+
 
